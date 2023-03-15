@@ -40,8 +40,8 @@
     "messages": [],
     "jsonPathKeys": [
       "Input1.text",
-      "appsmith.store.id",
       "appsmith.store.phone_number",
+      "appsmith.store.sid",
       "this.params.num"
     ],
     "userSetOnLoad": false,
